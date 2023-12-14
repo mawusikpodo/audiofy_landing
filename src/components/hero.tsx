@@ -10,7 +10,7 @@ const Hero = () => {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Harmony Unleashed:
         <br className="hidden lg:inline-block" />Your Ultimate Audio Sharing Adventure Begins Here!
       </h1>
-      <p className="mb-8 leading-relaxed">🚀 Welcome to the future of auditory bliss! 🎶 Dive into a world where music, stories, and sounds come alive like never before. 🌟 Introducing Audiofy, the game-changing audio sharing app that's set to revolutionize the way you experience and share your favorite sounds.</p>
+      <p className="mb-8 leading-relaxed">🚀 Welcome to the future of auditory bliss! 🎶 Dive into a world where music, stories, and sounds come alive like never before. 🌟 Introducing Audiofy, the game-changing audio sharing app that set to revolutionize the way you experience and share your favorite sounds.</p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">Download</button>
         <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Use Online</button>

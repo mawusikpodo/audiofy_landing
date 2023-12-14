@@ -20,7 +20,7 @@ const Features = () => {
         <div className="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col">
           <div className="flex-grow">
             <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Personalized Recommendations:</h2>
-            <p className="leading-relaxed text-base">Let our advanced algorithms tailor recommendations based on your preferences. Whether you're a die-hard music aficionado or a casual podcast listener, [Your App Name] ensures that your feed is always filled with content you'll love.</p>
+            <p className="leading-relaxed text-base">Let our advanced algorithms tailor recommendations based on your preferences. Whether you are a die-hard music aficionado or a casual podcast listener, Audiofy ensures that your feed is always filled with content you will love.</p>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@ const Features = () => {
         <div className="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col">
           <div className="flex-grow">
             <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Immersive Playlists:</h2>
-            <p className="leading-relaxed text-base">Craft the perfect soundscapes for any occasion. Our intuitive playlist feature lets you curate playlists that match your mood, whether it's for a workout, a road trip, or a cozy night in. Elevate every moment with the right tunes!</p>
+            <p className="leading-relaxed text-base">Craft the perfect soundscapes for any occasion. Our intuitive playlist feature lets you curate playlists that match your mood, whether it is for a workout, a road trip, or a cozy night in. Elevate every moment with the right tunes!</p>
           </div>
         </div>
       </div>
